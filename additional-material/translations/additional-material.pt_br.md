@@ -14,3 +14,6 @@ Esse documento fornece informações sobre como manter seu Fork atualizado com o
 Esse documento fornece informações sobre como reverter um commit no repositório remoto. É útil quando você precisa desfazer um Commit que já foi dado Push para o GitHub.
 > Siga esses passos se você quer reverter um Commit.
 
+### [ Corrigindo um Commit](amending-a-commit.pt_br.md)
+Esse documento fornece informações sobre como corrigir um Commit do repositório remoto.
+> Faça isso quando precisar ajustar um Commit feito.
